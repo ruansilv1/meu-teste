@@ -1,0 +1,41 @@
+ 
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+h1, h2{
+    color: #000000;
+}
+
+.painel{
+    margin: auto;
+    max-width: 400px;
+    height: 600px;
+    background-color: #fffbfb;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+#sim{
+    height: 40px;
+    width: 100px;
+    background-color: #990059;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    color: white;
+    margin-left: -120px;
+
+}
+#não{
+    position: absolute;
+    height: 40px;
+    width: 100px;
+    background-color: #990059;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    color: white;
+    margin-left: 10px;
+}
